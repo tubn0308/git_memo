@@ -1,0 +1,6 @@
+#abort local changes before commiting
+git status
+git checkout .
+
+#stash local changes
+git stash
